@@ -1,0 +1,113 @@
+#screen{
+    -fx-background-image: url("screen.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#cbpaneh{
+    -fx-background-image: url("cb.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#cbpanef{
+    -fx-background-image: url("cb.png");
+    -fx-border-radius: 10px;
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#cbpaner{
+    -fx-background-image: url("cb.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#cbpanes{
+    -fx-background-image: url("scb.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+#cppaneh{
+    -fx-background-image: url("cp.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#cppanef{
+    -fx-background-image: url("cp.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#cppaner{
+    -fx-background-image: url("cp.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#cppanes{
+    -fx-background-image: url("scb1.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+
+#sbpaneh{
+    -fx-background-image: url("bir.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#sbpanef{
+    -fx-background-image: url("bir.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+
+
+#sppaneh{
+    -fx-background-image: url("pu.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#sppanef{
+    -fx-background-image: url("pu.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+
+
+
+
+#dpane{
+    -fx-background-image: url("colddrinks.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#rpane{
+    -fx-background-image: url("raita.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#shamipane{
+    -fx-background-image: url("shaami.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
+#saladpane{
+    -fx-background-image: url("salad.png");
+    -fx-background-repeat: stretch;
+    -fx-background-size: cover;
+    -fx-background-position: center center;
+}
